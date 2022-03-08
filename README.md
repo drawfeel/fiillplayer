@@ -1,7 +1,8 @@
 This is a video & string player based on ijkplayer.
 All the codes are refactor with androidx, no need to import other JAVA packages.
 
-
+先看wiki，再确定是否下载：
+https://github.com/drawfeel/fiillplayer/wiki
 
 基于ijkplayer 0.8.8版本(github 2021年11月版本)编译的全平台全协议JNI libijkffmpeg.so。
 支持open ssl, h265, rm, rmvb, rtsp rtmp。直播与本地播放全部支持。
