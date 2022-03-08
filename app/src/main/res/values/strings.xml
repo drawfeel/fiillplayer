@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fiill Player</string>
+
+    <string name="small_problem">Exception occurred</string>
+
+    <string name="fiill_player_track_type_unknown">unknown</string>
+    <string name="fiill_player_track_type_audio">audio</string>
+    <string name="fiill_player_track_type_video">video</string>
+    <string name="fiill_player_live">live</string>
+    <string name="fiill_player_track_type_subtitle">Sub Title</string>
+    <string name="fiill_player_track_type_timed_text">timed text</string>
+
+    <string name="recent">Recent</string>
+    <string name="settings">Settings</string>
+
+    <string name="back">back</string>
+
+    <string name="close">Close</string>
+    <string name="toggle_ratio">RATIO</string>
+    <string name="show_info">Info</string>
+
+    <string name="media_information">Media Information</string>
+    <string name="mi_media">Media</string>
+    <string name="mi_profile_level">Profile level</string>
+    <string name="mi_pixel_format">Pixel format</string>
+    <string name="mi_resolution">Resolution</string>
+    <string name="mi_length">Length</string>
+    <string name="mi_stream_fmt1">Stream #%d</string>
+    <string name="mi_type">Type</string>
+    <string name="mi_language">Language</string>
+    <string name="mi_codec">Codec</string>
+    <string name="mi_frame_rate">Frame rate</string>
+    <string name="mi_bit_rate">Bit rate</string>
+    <string name="mi_sample_rate">Sample rate</string>
+    <string name="mi_channels">Channels</string>
+    <string name="mi__selected_video_track">*</string>
+    <string name="mi__selected_audio_track">*</string>
+    <string name="mi__selected_subtitle_track">*</string>
+    
+    <string name="TrackType_video">Video</string>
+    <string name="TrackType_audio">Audio</string>
+    <string name="TrackType_subtitle">Subtitle</string>
+    <string name="TrackType_timedtext">Timed text</string>
+    <string name="TrackType_metadata">Meta data</string>
+    <string name="TrackType_unknown">Unknown</string>
+
+</resources>

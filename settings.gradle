@@ -1,0 +1,5 @@
+rootProject.name = "FiillPlayer"
+include ':app'
+
+include ':ijkplayer-java'
+
